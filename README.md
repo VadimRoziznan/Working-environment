@@ -6,7 +6,7 @@
 
 ### Continuous Deployment
 
-#### Описание
+#### Описание:
 
 Воспользуйтесь пошаговой инструкцией ниже, чтобы развернуть тестирование, сборку и deployment на GitHub Actions и GitHub Pages.
 
